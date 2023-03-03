@@ -1,0 +1,19 @@
+decriptare
+7
+zebras
+russian
+37  106  62  36  67  47  86  26  104  53  62  77  27  55  57  66  55  36  54  27
+
+#expected output 
+wrgtfbmxpbgmxkitetvx
+
+
+
+criptare
+7
+zebras
+russian
+wrgtfbmxpbgmxkitetvx
+
+#expected output
+37  106  62  36  67  47  86  26  104  53  62  77  27  55  57  66  55  36  54  27
